@@ -1,4 +1,4 @@
-
+# if-elif-else
 
 age_str = input("Скільки вам років? ")
 age = int(age_str)
