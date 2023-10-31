@@ -14,3 +14,6 @@ last_char = text[-1]  # last_char = 'n'
 
 text1 = "Python"
 substring = text[0:3]  # substring = "Pyt" (включаючи індекс 0, але не включаючи індекс 3)
+reversed = text1[::-1]
+
+print(reversed)

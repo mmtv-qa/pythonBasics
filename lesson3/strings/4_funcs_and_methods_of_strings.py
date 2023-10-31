@@ -14,6 +14,7 @@ uppercase_text = text.upper()  # uppercase_text = "HELLO, WORLD!"
 # string.lower(): Перетворює рядок у нижній регістр.
 text = "Hello, World!"
 lowercase_text = text.lower()  # lowercase_text = "hello, world!"
+print(lowercase_text.capitalize())
 
 
 # string.strip() Видаляє пробіли із початку та кінця рядка.

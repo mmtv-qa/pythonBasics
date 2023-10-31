@@ -14,5 +14,5 @@ n1 = int(input("Введіть n1:: "))
 n2 = int(input("Введіть n2:: "))
 n3 = int(input("Введіть n3:: "))
 
-
+# print()
 

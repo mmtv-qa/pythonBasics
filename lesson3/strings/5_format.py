@@ -16,6 +16,6 @@ print(formatted_str)
 
 #Використання f-строк (з Python 3.6 і вище):
 name = "Charlie"
-age = 35
-formatted_str = f"Привіт, {name}! Тобі {age} років."
+age = 36
+formatted_str = f"Привіт, {name if age == 35 else 'Fake'}! Тобі {age} років."
 print(formatted_str)
